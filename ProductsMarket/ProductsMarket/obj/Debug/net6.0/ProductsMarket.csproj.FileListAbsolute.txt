@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\bin\Debug\net6.0\ProductsMarket.exe
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\bin\Debug\net6.0\ProductsMarket.deps.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\bin\Debug\net6.0\ProductsMarket.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\bin\Debug\net6.0\ProductsMarket.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\bin\Debug\net6.0\ProductsMarket.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\refint\ProductsMarket.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ProductsMarket.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\ProductsMarket\ProductsMarket\obj\Debug\net6.0\ref\ProductsMarket.dll
